@@ -6,9 +6,9 @@ sites:
   # ── dev (https://dev.nlm-ckn.org) ───────────────────────────────────────────
   - name: Dev Frontend
     url: https://dev.nlm-ckn.org/
-  - name: Dev Backend Version
+  - name: Dev Backend Version Endpoint
     url: https://dev.nlm-ckn.org/arango_api/version/
-  - name: Dev Arango Collections
+  - name: Dev Arango Collections Endpoint
     url: https://dev.nlm-ckn.org/arango_api/collections/
     method: POST
     headers:
@@ -18,9 +18,9 @@ sites:
   # ── stage (https://stage.nlm-ckn.org) ───────────────────────────────────────
   - name: Stage Frontend
     url: https://stage.nlm-ckn.org/
-  - name: Stage Backend Version
+  - name: Stage Backend Version Endpoint
     url: https://stage.nlm-ckn.org/arango_api/version/
-  - name: Stage Arango Collections
+  - name: Stage Arango Collections Endpoint
     url: https://stage.nlm-ckn.org/arango_api/collections/
     method: POST
     headers:
@@ -32,10 +32,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/278495905?s=48&v=4
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page for the NLM CKN backend and frontend deployed from https://github.com/Springbok-LLC/nlm-ckn-ui
   navbar:
     - title: Status
       href: /
