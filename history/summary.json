@@ -4,10 +4,10 @@
     "url": "https://dev.nlm-ckn.org/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.nlm-ckn.org.ico",
     "slug": "dev-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
@@ -15,17 +15,19 @@
     "timeWeek": 196,
     "timeMonth": 306,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-15": 1
+    }
   },
   {
     "name": "Dev Backend Version Endpoint",
     "url": "https://dev.nlm-ckn.org/arango_api/version/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.nlm-ckn.org.ico",
     "slug": "dev-backend-version-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
@@ -33,16 +35,18 @@
     "timeWeek": 159,
     "timeMonth": 209,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-15": 1
+    }
   },
   {
     "name": "Dev Arango Collections Endpoint",
     "url": "https://dev.nlm-ckn.org/arango_api/collections/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.nlm-ckn.org.ico",
     "slug": "dev-arango-collections-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 148,
     "timeMonth": 4267,
     "timeYear": 3966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-15": 0
+    }
   },
   {
     "name": "Stage Frontend",
@@ -95,15 +101,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.nlm-ckn.org.ico",
     "slug": "stage-arango-collections-endpoint",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.71%",
     "time": 5221,
     "timeDay": 3207,
     "timeWeek": 1922,
-    "timeMonth": 4963,
+    "timeMonth": 4414,
     "timeYear": 5221,
     "dailyMinutesDown": {
       "2026-06-15": 636
