@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
-    "time": 285,
-    "timeDay": 612,
-    "timeWeek": 251,
-    "timeMonth": 235,
-    "timeYear": 285,
+    "time": 282,
+    "timeDay": 117,
+    "timeWeek": 232,
+    "timeMonth": 238,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2026-07-15": 47
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
     "time": 226,
-    "timeDay": 465,
-    "timeWeek": 280,
-    "timeMonth": 226,
+    "timeDay": 272,
+    "timeWeek": 247,
+    "timeMonth": 233,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2026-07-15": 47
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
-    "time": 2623,
-    "timeDay": 546,
-    "timeWeek": 187,
-    "timeMonth": 268,
-    "timeYear": 2623,
+    "time": 2584,
+    "timeDay": 162,
+    "timeWeek": 174,
+    "timeMonth": 272,
+    "timeYear": 2584,
     "dailyMinutesDown": {
       "2026-07-15": 47
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 167,
-    "timeWeek": 177,
-    "timeMonth": 155,
-    "timeYear": 150,
+    "time": 151,
+    "timeDay": 159,
+    "timeWeek": 174,
+    "timeMonth": 159,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 353,
-    "timeWeek": 212,
-    "timeMonth": 191,
-    "timeYear": 203,
+    "time": 202,
+    "timeDay": 185,
+    "timeWeek": 187,
+    "timeMonth": 194,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -101,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.nlm-ckn.org.ico",
     "slug": "stage-arango-collections-endpoint",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
-    "time": 3547,
-    "timeDay": 216,
-    "timeWeek": 214,
-    "timeMonth": 696,
-    "timeYear": 3547,
+    "uptimeYear": "99.22%",
+    "time": 3493,
+    "timeDay": 114,
+    "timeWeek": 168,
+    "timeMonth": 593,
+    "timeYear": 3493,
     "dailyMinutesDown": {
       "2026-06-15": 636
     }
