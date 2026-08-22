@@ -1,7 +1,7 @@
 url: https://dev.nlm-ckn.org/arango_api/collections/
-status: down
-code: 500
-responseTime: 185
-lastUpdated: 2026-08-21T23:18:49.456Z
+status: up
+code: 200
+responseTime: 38
+lastUpdated: 2026-08-22T13:36:20.800Z
 startTime: 2026-06-11T15:56:47.050Z
 generator: Upptime <https://github.com/upptime/upptime>
