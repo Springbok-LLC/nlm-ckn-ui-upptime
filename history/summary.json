@@ -13,7 +13,7 @@
     "time": 261,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 297,
+    "timeMonth": 436,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2026-07-15": 47
@@ -33,7 +33,7 @@
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 279,
+    "timeMonth": 292,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2026-07-15": 47
@@ -53,7 +53,7 @@
     "time": 1855,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 161,
+    "timeMonth": 254,
     "timeYear": 1855,
     "dailyMinutesDown": {
       "2026-07-15": 47,
@@ -76,7 +76,7 @@
     "time": 165,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 205,
+    "timeMonth": 280,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "time": 208,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 256,
+    "timeMonth": 235,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -104,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.nlm-ckn.org.ico",
     "slug": "stage-arango-collections-endpoint",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 2536,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 162,
+    "timeMonth": 220,
     "timeYear": 2536,
     "dailyMinutesDown": {
       "2026-06-15": 636,
