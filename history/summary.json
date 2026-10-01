@@ -13,7 +13,7 @@
     "time": 261,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 436,
+    "timeMonth": 0,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2026-07-15": 47
@@ -33,7 +33,7 @@
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 292,
+    "timeMonth": 0,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2026-07-15": 47
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.nlm-ckn.org.ico",
     "slug": "dev-arango-collections-endpoint",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1855,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 254,
+    "timeMonth": 0,
     "timeYear": 1855,
     "dailyMinutesDown": {
       "2026-07-15": 47,
@@ -76,7 +76,7 @@
     "time": 165,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 280,
+    "timeMonth": 0,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "time": 208,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 235,
+    "timeMonth": 0,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -104,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.nlm-ckn.org.ico",
     "slug": "stage-arango-collections-endpoint",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 2536,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 220,
+    "timeMonth": 0,
     "timeYear": 2536,
     "dailyMinutesDown": {
       "2026-06-15": 636,
