@@ -42,5 +42,11 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# Uptime CI's cron. At */5 the runs pile up in the shared `-upptime` concurrency
+# group: GitHub keeps only one running + one pending run per group, so a third
+# arrival evicts the pending one and reports it as a failed run.
+workflowSchedule:
+  uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
