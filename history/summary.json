@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 0,
-    "timeWeek": 345,
-    "timeMonth": 343,
+    "timeWeek": 321,
+    "timeMonth": 351,
     "timeYear": 362,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "99.98%",
     "time": 236,
     "timeDay": 0,
-    "timeWeek": 116,
-    "timeMonth": 174,
+    "timeWeek": 126,
+    "timeMonth": 168,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2026-07-15": 47
@@ -50,8 +50,8 @@
     "uptimeYear": "99.98%",
     "time": 233,
     "timeDay": 0,
-    "timeWeek": 267,
-    "timeMonth": 214,
+    "timeWeek": 219,
+    "timeMonth": 221,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2026-07-15": 47
@@ -70,8 +70,8 @@
     "uptimeYear": "99.44%",
     "time": 1307,
     "timeDay": 0,
-    "timeWeek": 206,
-    "timeMonth": 181,
+    "timeWeek": 160,
+    "timeMonth": 180,
     "timeYear": 1307,
     "dailyMinutesDown": {
       "2026-07-15": 47,
@@ -93,7 +93,7 @@
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 0,
-    "timeWeek": 89,
+    "timeWeek": 54,
     "timeMonth": 108,
     "timeYear": 158,
     "dailyMinutesDown": {}
@@ -111,8 +111,8 @@
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 0,
-    "timeWeek": 256,
-    "timeMonth": 203,
+    "timeWeek": 224,
+    "timeMonth": 209,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -122,15 +122,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.nlm-ckn.org.ico",
     "slug": "stage-arango-collections-endpoint",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 1757,
     "timeDay": 0,
-    "timeWeek": 136,
-    "timeMonth": 149,
+    "timeWeek": 81,
+    "timeMonth": 152,
     "timeYear": 1757,
     "dailyMinutesDown": {
       "2026-06-15": 636,
